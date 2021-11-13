@@ -7,4 +7,5 @@ This project is to analyse the price variation of different commodities statewis
 6. Category - Category of each commodity. In this data set it is confined to only 'Food'
 7. Date - Date from Jan-2001 til Mar-2021 
 8. Retail Price - Retail Price for each commodity on a particular month.
+
 The data set was from Kaggle. First process I did was data cleansing. Analysed the data and found some missing data. I patched it with appropriate values. Later I did the analytics based on the cleansed data. 
